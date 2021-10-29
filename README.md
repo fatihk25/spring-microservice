@@ -1,4 +1,4 @@
-#Spring Boot Microservice
+# Spring Boot Microservice
 
 This project is about implementing a microservice with spring boot. There are some dependencies and services that build 
 the project. On this project build two services that are `User Service` and `Department Service`.  Furthermore, 
